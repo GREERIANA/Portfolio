@@ -1,6 +1,4 @@
 # Portfolio
 
-Current list of portfolio projects: 
-- 
--
--
+## Current list of portfolio projects: 
+
